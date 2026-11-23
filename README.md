@@ -9,7 +9,7 @@
 
 <h1>Hey there, I'm Aymane Eddahani 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;SAP+%26+ABAP+Enthusiast;Data+Engineering+%26+Analytics;Artificial+Intelligence+%26+Machine+Learning;Cloud+Computing+%26+DevOps;Turning+Data+Into+Insights" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;SAP+%26+ABAP+Specialist;DevOps+%26+Cloud+Computing" alt="Typing SVG"/>
 
 <br/>
 
@@ -31,20 +31,17 @@
 
 ### 👨‍💻 Who Am I?
 
-Hi! I'm **Aymane Eddahani**, a software engineering student passionate about enterprise technologies, data, and intelligent systems.
+Hi! I'm **Aymane Eddahani**, a Software Engineering student passionate about enterprise technologies, data, and intelligent solutions.
 
-My main interests are at the intersection of **SAP, Data Engineering, Artificial Intelligence, and Cloud Computing**.
+I'm particularly interested in exploring how **SAP, Data Engineering, Artificial Intelligence, and Cloud Computing** can transform businesses and drive innovation.
 
 - 🎓 Software Engineering Student
-- 🏢 Exploring SAP ERP, SAP S/4HANA & ABAP
-- 📊 Interested in Data Engineering & Data Analytics
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🔄 Interested in ETL, data processing & pipelines
+- 🏢 Exploring SAP ERP, SAP S/4HANA & ABAP Development
 - ☁️ Learning Cloud Computing & DevOps
-- 🗄️ Passionate about databases and information systems
-- 🚀 Building projects and continuously learning
+- 🗄️ Passionate about Databases, ETL Processes & Information Systems
+- 🚀 Building projects and continuously expanding my technical skills
 
-**My Goal:** Build intelligent, scalable, and data-driven solutions that help businesses make better decisions.
+**🎯 My Goal:** To develop intelligent, scalable, and data-driven solutions that solve real-world business challenges and create meaningful impact.
 
 </td>
 
