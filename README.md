@@ -1,4 +1,3 @@
-
 <!-- ========================================= -->
 <!--       AYMANE EDDAHANI - GITHUB README     -->
 <!-- ========================================= -->
@@ -6,7 +5,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00BCD4&height=220&section=header&text=Aymane%20Eddahani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20%7C%20Data%20%7C%20DevOps%20%26%20Cloud&descSize=19&descAlignY=57"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00BCD4&height=220&section=header&text=Aymane%20Eddahani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20%7C%20Software%20Engineering%20%7C%20DevOps&descSize=17&descAlignY=57"/>
 
 <h1>Hey there, I'm Aymane Eddahani 👋</h1>
 
