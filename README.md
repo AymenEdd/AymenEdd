@@ -1,3 +1,4 @@
+
 <!-- ========================================= -->
 <!--       AYMANE EDDAHANI - GITHUB README     -->
 <!-- ========================================= -->
@@ -21,8 +22,6 @@
 
 ---
 
-<!-- ABOUT ME -->
-
 ## 🚀 About Me
 
 <table>
@@ -31,21 +30,22 @@
 
 ### 👨‍💻 Who Am I?
 
-Hi! I'm **Aymane Eddahani**, a Software Engineering student passionate about enterprise technologies, data, and intelligent solutions.
+Hi! I'm **Aymane Eddahani**, a Software Engineering student passionate about enterprise technologies, data, and cloud infrastructure.
 
-I'm particularly interested in exploring how **SAP, Data Engineering, Artificial Intelligence, and Cloud Computing** can transform businesses and drive innovation.
+I'm particularly interested in **SAP, Data Engineering, DevOps, and Cloud Computing**, exploring how these technologies support modern business solutions.
 
 - 🎓 Software Engineering Student
 - 🏢 Exploring SAP ERP, SAP S/4HANA & ABAP Development
-- ☁️ Learning Cloud Computing & DevOps
+- 📊 Interested in Data Engineering, Data Analytics & Business Intelligence
+- ☁️ Exploring Cloud Computing, DevOps & Automation
 - 🗄️ Passionate about Databases, ETL Processes & Information Systems
 - 🚀 Building projects and continuously expanding my technical skills
 
-**🎯 My Goal:** To develop intelligent, scalable, and data-driven solutions that solve real-world business challenges and create meaningful impact.
+**🎯 My Goal:** Develop scalable enterprise solutions and reliable data-driven systems using modern technologies.
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="center">
 
 <img src="https://github.com/AymenEdd.png" width="200" alt="Aymane Eddahani"/>
 
@@ -53,15 +53,13 @@ I'm particularly interested in exploring how **SAP, Data Engineering, Artificial
 
 **Aymane Eddahani**
 
-<em>Data. Intelligence. Innovation.</em>
+<em>Data. Technology. Innovation.</em>
 
 </td>
 </tr>
 </table>
 
 ---
-
-<!-- TECHNOLOGIES -->
 
 ## 🛠️ Tech Stack & Technologies
 
@@ -70,7 +68,7 @@ I'm particularly interested in exploring how **SAP, Data Engineering, Artificial
 ### 🏢 SAP & Enterprise Technologies
 
 <img src="https://img.shields.io/badge/SAP-0FA6D9?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAP%20ABAP-0070F2?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/ABAP-0070F2?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0070F2?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAP%20Fiori-00A6D6?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAP%20HANA-009FDA?style=for-the-badge&logo=sap&logoColor=white"/>
@@ -85,20 +83,16 @@ I'm particularly interested in exploring how **SAP, Data Engineering, Artificial
 <img src="https://img.shields.io/badge/Apache%20NiFi-017CEE?style=for-the-badge&logo=apachenifi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/ETL-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-### ☁️ Cloud Computing & DevOps
+### ☁️ DevOps & Cloud Computing
 
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,github,githubactions,nginx&theme=dark"/>
 
@@ -118,37 +112,31 @@ I'm particularly interested in exploring how **SAP, Data Engineering, Artificial
 
 ---
 
-<!-- GITHUB STATS -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AymenEdd&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=00BCD4&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AymenEdd&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=00BCD4&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenEdd&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenEdd&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=AymenEdd&theme=tokyonight&hide_border=true&ring=2196F3&fire=00BCD4&currStreakLabel=2196F3&sideLabels=2196F3"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=AymenEdd&theme=tokyonight&hide_border=true&ring=2196F3&fire=00BCD4&currStreakLabel=2196F3&sideLabels=2196F3" alt="GitHub Streak"/>
 
 </div>
 
 ---
-
-<!-- ACTIVITY GRAPH -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AymenEdd&bg_color=1a1b27&color=2196F3&line=00BCD4&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AymenEdd&bg_color=1a1b27&color=2196F3&line=00BCD4&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="Contribution Activity"/>
 
 </div>
 
 ---
-
-<!-- CONTRIBUTION SNAKE -->
 
 ## 🐍 Contribution Snake
 
@@ -201,43 +189,39 @@ jobs:
 
 ---
 
-<!-- CONNECT -->
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-I'm always interested in connecting with developers, exchanging ideas, and exploring opportunities in SAP, Data Engineering, and AI.
+I'm always interested in connecting with developers, exchanging ideas, and exploring opportunities in SAP, Data Engineering, DevOps, and Cloud Computing.
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://x.com/YOUR-USERNAME">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <a href="https://www.instagram.com/YOUR-USERNAME/">
-<img src="https://img.shields.io/badge/Instagram-Follow-1565C0?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-1565C0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://www.tiktok.com/@YOUR-USERNAME">
-<img src="https://img.shields.io/badge/TikTok-Follow-111111?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-Follow-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 
 <a href="https://www.youtube.com/@YOUR-CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 <a href="mailto:YOUR-EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-1565C0?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-1565C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
-
-<!-- QUOTE -->
 
 <div align="center">
 
@@ -245,17 +229,11 @@ I'm always interested in connecting with developers, exchanging ideas, and explo
 
 *"Turning data into knowledge, and knowledge into innovation."*
 
-</div>
+<br/>
 
----
+### 🌐 Thanks for visiting my GitHub profile!
 
-<!-- FOOTER -->
-
-<div align="center">
-
-<h3>🌐 Thanks for visiting my GitHub profile!</h3>
-
-**Code • Data • Innovation • Continuous Learning**
+**SAP • Data • DevOps • Cloud • Continuous Learning**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00BCD4&height=120&section=footer"/>
 
