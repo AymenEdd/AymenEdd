@@ -9,7 +9,7 @@
 
 <h1>Hey there, I'm Aymane Eddahani 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;SAP+%26+ABAP+Specialist;DevOps+%26+Cloud+Computing" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;SAP+%26+ABAP;DevOps+%26+Cloud+Computing" alt="Typing SVG"/>
 
 <br/>
 
