@@ -1,25 +1,27 @@
-<!-- 🌸 Premium GitHub Profile README -->
+<!-- ========================================= -->
+<!--       AYMANE EDDAHANI - GITHUB README     -->
+<!-- ========================================= -->
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=220&section=header&text=Aymane%20Eddahani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20%7C%20Data%20Engineering%20%7C%20AI&descSize=18&descAlignY=55"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=220&section=header&text=Aymane%20Eddahani&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner"/>
-  </picture>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00BCD4&height=220&section=header&text=Aymane%20Eddahani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20%7C%20Data%20Engineering%20%7C%20Artificial%20Intelligence&descSize=17&descAlignY=57"/>
 
-  <h1>Hey there, I'm Aymane Eddahani 👋</h1>
+<h1>Hey there, I'm Aymane Eddahani 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;SAP+%26+ABAP+Enthusiast;Data+Engineering+%26+Analytics;Artificial+Intelligence+%26+Machine+Learning;Cloud+Computing+%26+DevOps;Turning+Data+Into+Insights" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;SAP+%26+ABAP+Enthusiast;Data+Engineering+%26+Analytics;Artificial+Intelligence+%26+Machine+Learning;Cloud+Computing+%26+DevOps;Turning+Data+Into+Insights" alt="Typing SVG"/>
 
-  <br/>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=AymenEdd&label=Profile%20Views&color=3498db&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/AymenEdd?label=Followers&style=for-the-badge&color=3498db"/>
-  <img src="https://img.shields.io/github/stars/AymenEdd?label=Total%20Stars&style=for-the-badge&color=3498db"/>
+<img src="https://komarev.com/ghpvc/?username=AymenEdd&label=PROFILE+VIEWS&color=1565C0&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AymenEdd?label=FOLLOWERS&style=for-the-badge&color=1565C0"/>
+<img src="https://img.shields.io/github/stars/AymenEdd?label=STARS&style=for-the-badge&color=1565C0"/>
 
 </div>
 
 ---
+
+<!-- ABOUT ME -->
 
 ## 🚀 About Me
 
@@ -31,23 +33,24 @@
 
 Hi! I'm **Aymane Eddahani**, a software engineering student passionate about enterprise technologies, data, and intelligent systems.
 
-I'm particularly interested in the intersection of **SAP, Data Engineering, Artificial Intelligence, and Cloud Computing**.
+My main interests are at the intersection of **SAP, Data Engineering, Artificial Intelligence, and Cloud Computing**.
 
 - 🎓 Software Engineering Student
 - 🏢 Exploring SAP ERP, SAP S/4HANA & ABAP
 - 📊 Interested in Data Engineering & Data Analytics
 - 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🔄 Interested in ETL, data processing & pipelines
 - ☁️ Learning Cloud Computing & DevOps
-- 🗄️ Interested in databases, ETL pipelines & data processing
-- 🚀 Building projects and continuously improving my skills
+- 🗄️ Passionate about databases and information systems
+- 🚀 Building projects and continuously learning
 
-**My Goal:** Build intelligent, data-driven solutions that help businesses make better decisions.
+**My Goal:** Build intelligent, scalable, and data-driven solutions that help businesses make better decisions.
 
 </td>
 
-<td width="35%" align="center" valign="center">
+<td width="35%" align="center">
 
-<img src="https://github.com/AymenEdd.png" width="220" alt="Aymane's GitHub Avatar"/>
+<img src="https://github.com/AymenEdd.png" width="200" alt="Aymane Eddahani"/>
 
 <br/>
 
@@ -61,6 +64,8 @@ I'm particularly interested in the intersection of **SAP, Data Engineering, Arti
 
 ---
 
+<!-- TECHNOLOGIES -->
+
 ## 🛠️ Tech Stack & Technologies
 
 <div align="center">
@@ -68,79 +73,100 @@ I'm particularly interested in the intersection of **SAP, Data Engineering, Arti
 ### 🏢 SAP & Enterprise Technologies
 
 <img src="https://img.shields.io/badge/SAP-0FA6D9?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/ABAP-3498db?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAP%20S%2F4HANA-3498db?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAP%20Fiori-3498db?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20ABAP-0070F2?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0070F2?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20Fiori-00A6D6?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20HANA-009FDA?style=for-the-badge&logo=sap&logoColor=white"/>
 
 ### 📊 Data Engineering & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,oracle,mongodb&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb&theme=dark"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20NiFi-017CEE?style=for-the-badge&logo=apachenifi&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL-3498db?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-3498db?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ETL-1565C0?style=for-the-badge"/>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud Computing & DevOps
 
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,github,githubactions,nginx&perline=8"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,github,githubactions,nginx&theme=dark"/>
 
-### 💻 Programming & Development
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,dart,spring,flask&perline=9"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js,ts,dart&theme=dark"/>
+
+### 🌐 Development Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring,flask,angular,react,flutter,dotnet&theme=dark"/>
 
 ### 🔧 Tools & IDEs
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,figma&perline=6"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,figma&theme=dark"/>
 
 </div>
 
 ---
+
+<!-- GITHUB STATS -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AymenEdd&show_icons=true&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=808080&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AymenEdd&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=00BCD4&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenEdd&layout=compact&theme=transparent&hide_border=true&title_color=3498db&text_color=808080"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenEdd&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=AymenEdd&theme=transparent&hide_border=true&ring=3498db&fire=3498db&currStreakLabel=3498db&sideLabels=3498db"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=AymenEdd&theme=tokyonight&hide_border=true&ring=2196F3&fire=00BCD4&currStreakLabel=2196F3&sideLabels=2196F3"/>
 
 </div>
 
 ---
+
+<!-- ACTIVITY GRAPH -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AymenEdd&bg_color=00000000&color=3498db&line=3498db&point=8e44ad&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AymenEdd&bg_color=1a1b27&color=2196F3&line=00BCD4&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"/>
 
 </div>
 
 ---
 
+<!-- CONTRIBUTION SNAKE -->
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AymenEdd/AymenEdd/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AymenEdd/AymenEdd/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AymenEdd/AymenEdd/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AymenEdd/AymenEdd/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
 <!--
-Create .github/workflows/snake.yml
+Create: .github/workflows/snake.yml
 
 name: Generate Contribution Snake
 
@@ -178,56 +204,62 @@ jobs:
 
 ---
 
+<!-- CONNECT -->
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-Let's connect, exchange ideas, and explore opportunities in SAP, Data Engineering, and Artificial Intelligence!
+I'm always interested in connecting with developers, exchanging ideas, and exploring opportunities in SAP, Data Engineering, and AI.
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-3498db?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/YOUR-USERNAME">
-<img src="https://img.shields.io/badge/X-Follow-3498db?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/YOUR-USERNAME/">
-<img src="https://img.shields.io/badge/Instagram-Follow-3498db?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-1565C0?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.tiktok.com/@YOUR-USERNAME">
-<img src="https://img.shields.io/badge/TikTok-Follow-3498db?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-Follow-111111?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@YOUR-CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-3498db?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR-EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-3498db?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-1565C0?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💭 Developer Quote
+<!-- QUOTE -->
 
 <div align="center">
 
-*"Data is the new fuel, technology is the engine, and innovation is the destination."*
+### 💡 Developer Philosophy
+
+*"Turning data into knowledge, and knowledge into innovation."*
 
 </div>
 
 ---
 
+<!-- FOOTER -->
+
 <div align="center">
 
-### 🌸 Thanks for visiting my profile!
+<h3>🌐 Thanks for visiting my GitHub profile!</h3>
 
-**If you like my work, consider giving my repositories a ⭐**
+**Code • Data • Innovation • Continuous Learning**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:ff69b4&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00BCD4&height=120&section=footer"/>
 
 </div>
