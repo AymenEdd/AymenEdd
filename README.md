@@ -5,8 +5,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00BCD4&height=220&section=header&text=Aymane%20Eddahani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20%7C%20Data%20Engineering%20%7C%20Artificial%20Intelligence&descSize=17&descAlignY=57"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00BCD4&height=220&section=header&text=Aymane%20Eddahani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20%7C%20Data%20%7C%20DevOps%20%26%20Cloud&descSize=19&descAlignY=57"/>
 <h1>Hey there, I'm Aymane Eddahani 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;SAP+%26+ABAP;DevOps+%26+Cloud+Computing" alt="Typing SVG"/>
